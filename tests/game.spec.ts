@@ -70,6 +70,6 @@ test.describe("2048 Game", () => {
       await smartMove();
     }
 
-    console.log("Smart game automation finished!");
+    console.log("We fail to crush the game!");
   });
 });
